@@ -1,0 +1,19 @@
+body {
+background:blue ;
+color: gray;
+}
+.heading{
+    width: 80%;
+    font-size: large;
+}
+.name_of_objects{
+    color: rgb(249, 250, 252);
+}
+#camera{
+    border: tan dashed 2px;
+    width: 350px;
+    height: 300px;
+}
+#result_object,#acurrecy_object{
+color: violet;
+}
